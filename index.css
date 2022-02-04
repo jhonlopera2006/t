@@ -1,0 +1,10 @@
+.bb{
+	position: absolute;
+	width: 1050px;
+	height: 1000px;
+	left: 130px;
+	top: 40px;
+	background: #FF00BF;
+	border: solid black 15px;
+	font-size: 40px;
+}
